@@ -4,12 +4,12 @@
 #include <FirebaseCloudMessaging.h>
  
 #define FIREBASE_HOST "heartdetect-581b9.firebaseio.com"
-#define FIREBASE_AUTH "y0MrKjvyD3784DuUI9X07Qq5G5leuHHbOpNCOby3"
+#define FIREBASE_AUTH ""
 #define WIFI_SSID "AndroidAP"
-#define WIFI_PASSWORD "oekh1373"
-#define CLIENT_REGISTRATION_ID "fXkqks8XC0E:APA91bGwiE2X8dePrHABwTUzkx4sNzS38cXKdPPsKTQq6ky6Yfr67t3DZy-x6B1t3NM7vivOlBAriWk4OGKS42H7SUJPcwtA9Eu4ecty-6ogBR-Km9XsfDRhJdJOZQSE5AieXM455nYe"
-#define SERVER_KEY "AAAAngi_q50:APA91bE1IVzRH-Q-EvjguZFr-k_dSSl_EdR0psn4tdv9m63bhUIKVY6zoYrmX9ETlk3QcxvRK3YooNs6zVQZq53eauhV6bRsPoUiAXwmfxcoy1F0oK8F9FcZtkB2kApqytPyJCgiFnZ4"
-#define userToken "aEBVC5nz8UfXn2MuHB8brvjMzMJ3"
+#define WIFI_PASSWORD ""
+#define CLIENT_REGISTRATION_ID ""
+#define SERVER_KEY ""
+#define userToken ""
 
 const int numReadings = 10;
 long times[3] = {0,0,0};
